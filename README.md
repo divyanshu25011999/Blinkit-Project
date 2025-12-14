@@ -1,10 +1,6 @@
 
 # Blinkit Sales & Performance Dashboard (Tableau)
 
-## 📊 Dashboard Link
-
-> *(Add Tableau Public link here once published)*
-
 ---
 
 ## 🧩 Problem Statement
